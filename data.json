@@ -1,0 +1,45 @@
+{
+    "categories1" : {
+       "name" : "mobile",
+       "id": 1,
+       "product": [
+           {
+                "id": 1,
+                "name": "Iphone 8",
+                "price": 50000,
+                "category": "mobile"
+           },
+           {
+                "id": 2,
+                "name": "Iphone 7",
+                "price": 40000,
+                "category": "mobile"
+           },
+           {
+                "id": 3,
+                "name": "Iphone X",
+                "price": 90000,
+                "category": "computer"
+            }
+
+       ]
+    },
+    "categories2" : {
+       "name" : "computer",
+       "id": 2,
+       "product": [
+           {
+                "id": 1,
+                "name": "dell com",
+                "price": 50000,
+                "category": "computer"
+           },
+           {
+            "id": 2,
+            "name": "mac book",
+            "price": 80000,
+            "category": "computer"
+       }
+       ]
+    }
+ }
